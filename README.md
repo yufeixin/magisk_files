@@ -44,3 +44,7 @@ https://cdn.jsdelivr.net/gh/lewime/magisk_files/updates/magisk-v20.4.json
 ```
 https://cdn.jsdelivr.net/gh/lewime/magisk_files/updates/magisk-v21.0.json
 ```
+12. Magisk v21.1
+```
+https://cdn.jsdelivr.net/gh/lewime/magisk_files/updates/magisk-v21.1.json
+```
